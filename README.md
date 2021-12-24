@@ -8,7 +8,8 @@ Includes support for many Bolt (electric car) specific PIDs.
 
 Influx Config
 -------------
-
+Sample configuration file:
+Influx.conf
 ```
 host=localhost
 port=6543
